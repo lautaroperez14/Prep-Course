@@ -1,0 +1,29 @@
+html{
+    background-color: blueviolet;
+}
+
+#thirdDiv{
+
+}
+
+h1{
+    color: cornflowerblue;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(74, 130, 233);
+    padding: 50px;
+    border:5px solid violet
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
