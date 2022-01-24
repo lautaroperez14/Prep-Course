@@ -2,10 +2,6 @@ html{
     background-color: blueviolet;
 }
 
-#thirdDiv{
-
-}
-
 h1{
     color: cornflowerblue;
 }
@@ -27,3 +23,9 @@ img{
     margin: 50px;
 }
 
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
